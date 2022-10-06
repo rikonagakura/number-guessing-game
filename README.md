@@ -13,10 +13,10 @@ Javascript
 
 ## Features
 
-Additional functionality:
-Display a popup alert and stop execution when the user entered an invalid number.
+Additional functionality:<br>
+Display a popup alert and stop execution when the user entered an invalid number (line 21-25 of game.js).
 
 ## Reference
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions<br>
-https://youtu.be/48ko-s_ePbc
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions<br>
+https://youtu.be/OxWElKUqVwY
