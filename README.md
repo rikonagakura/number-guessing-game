@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-
+![](https://github.com/rikonagakura/number-guessing-game/blob/main/number-guessing-game.gif)
 
 ## Overview
 
